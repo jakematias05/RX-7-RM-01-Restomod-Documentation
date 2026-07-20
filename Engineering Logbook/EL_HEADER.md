@@ -87,7 +87,7 @@ The purpose of the retrospective is to improve future engineering work within FC
 - What information was missing?
 - How can the next engineering session be improved?
 
-### AI Reflection
+### AI Self-Assessment
 
 Reflect on AI's contribution to the session.
 
@@ -98,7 +98,7 @@ Consider:
 - Where AI should have requested additional information
 - How AI can better support future engineering sessions
 
-### Human Reflection
+### Human Self-Assessment
 
 Reflect on the engineering process from the human perspective.
 
