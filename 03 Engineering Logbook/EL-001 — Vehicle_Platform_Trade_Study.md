@@ -172,7 +172,7 @@ AI assistance was most valuable in:
 ## Potential Limitations
 
 As evidence increasingly favored the FD, there was a risk of prematurely converging on a preferred solution.
-
+The model repeatedly attempted to blow up the scope of the project. User had to refocus and narrow the scope several times.
 This was mitigated by deliberately evaluating strong alternative platforms and reframing the decision around engineering value rather than absolute performance.
 
 ## Lessons Learned
