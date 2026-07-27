@@ -1,11 +1,11 @@
-# MXV-01 Project Charter
+# HRZN-01 Project Charter
 **Revision 1.0**
 
 ---
 
 # 1. Project Overview
 
-mxv-01 is an engineering-driven evolution of the Mazda NC MX-5.
+HRZN-01 is an engineering-driven evolution of the Mazda NC MX-5.
 
 The purpose of the project is to develop a vehicle capable of competing in New England hillclimb events while maintaining street drivability and OEM-quality refinement.
 The completed vehicle is only one outcome of the project. Equally important is producing clear, well-reasoned engineering documentation that explains not only **what** decisions were made, but **why** they were made.
@@ -250,7 +250,7 @@ Represents the highest level of confidence.
 
 # 8. Engineering Collaboration
 
-FCX-01 is developed through collaboration between human engineers and AI-assisted engineering tools.
+HRZN-01 is developed through collaboration between human engineers and AI-assisted engineering tools.
 
 Human engineers remain responsible for defining requirements, exercising engineering judgment, approving design decisions, and validating the completed vehicle.
 
@@ -391,7 +391,7 @@ Design reviews should improve the project rather than simply approve it.
 
 # 14. Long-Term Vision
 
-FCX-01 is intended to demonstrate that disciplined engineering practices, modern digital tools, and AI-assisted collaboration can enable a small team to execute a vehicle development program with the rigor typically associated with much larger organizations.
+HRZN-01 is intended to demonstrate that disciplined engineering practices, modern digital tools, and AI-assisted collaboration can enable a small team to execute a vehicle development program with the rigor typically associated with much larger organizations.
 
 Success will be measured not only by the completed vehicle, but also by the quality, transparency, reproducibility, and technical integrity of the engineering process used to create it.
 
