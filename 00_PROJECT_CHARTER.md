@@ -347,7 +347,7 @@ AI should similarly reflect on its own contribution to the engineering process, 
 - Where it introduced unnecessary complexity
 - Where its recommendations were weak or unsupported
 - Where additional analysis should have been requested
-- How it can better support future engineering work on FCX-01
+- How it can better support future engineering work on NRZN-01
 
 The purpose of AI reflection is not to evaluate AI for its own sake, but to improve its effectiveness as an engineering collaborator throughout the life of the project.
 
