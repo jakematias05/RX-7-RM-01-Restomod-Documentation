@@ -28,10 +28,10 @@ The project is guided by the following primary goals.
 
 ## Primary Goals
 
+- Hillclimb/ time attack competitive
 - Balanced and predictable handling
 - Daily-driver reliability
 - OEM-quality refinement
-- Hillclimb/ time attack competitive
 - Cost-conscious engineering
 - Long-term maintainability
 - Serviceable design
@@ -39,12 +39,12 @@ The project is guided by the following primary goals.
 
 This is a factory-style Clubsport development program.
 
-prompt: produce a limited-run MX-5 specifically for hillclimb and time attack:
+Goal: Produce a limited-run MX-5 specifically for hillclimb and time attack:
 
 - Lightweight but still street legal
 - Aerodynamically refined
-- Excellent cooling
-- Superb suspension
+- improved cooling
+- imroved suspension
 - Predictable handling
 - Reliable enough to drive to the event, compete, and drive home
 
