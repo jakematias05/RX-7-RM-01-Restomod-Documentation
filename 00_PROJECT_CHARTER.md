@@ -1,14 +1,13 @@
-# FCX-01 Project Charter
+# MXV-01 Project Charter
 **Revision 1.0**
 
 ---
 
 # 1. Project Overview
 
-FCX-01 is an engineering-driven restomod based on the Mazda FC RX-7.
+mxv-01 is an engineering-driven evolution of the Mazda NC MX-5.
 
-The purpose of the project is to develop a vehicle that feels like a modern factory evolution of the FC chassis while documenting the engineering process with the rigor of a professional vehicle development program.
-
+The purpose of the project is to develop a vehicle capable of competing in New England hillclimb events while maintaining street drivability and OEM-quality refinement.
 The completed vehicle is only one outcome of the project. Equally important is producing clear, well-reasoned engineering documentation that explains not only **what** decisions were made, but **why** they were made.
 
 The project also serves as a case study in AI-assisted engineering collaboration. Throughout development, engineering interactions between human collaborators and AI will be documented and reflected upon to better understand where AI contributes meaningfully, where it falls short, and how it can best support engineering work in small teams.
@@ -32,22 +31,22 @@ The project is guided by the following primary goals.
 - Balanced and predictable handling
 - Daily-driver reliability
 - OEM-quality refinement
-- Track-day capability
+- Hillclimb/ time attack competitive
 - Cost-conscious engineering
 - Long-term maintainability
 - Serviceable design
 - Cohesive vehicle integration
 
-## Secondary Goals
+This is a factory-style Clubsport development program.
 
-- Approximately 300–400 horsepower
-- Modern automatic transmission with paddle shifting
-- Modern electronic integration
-- Lightweight construction
-- Improved aerodynamic efficiency
-- OEM+ styling
+prompt: produce a limited-run MX-5 specifically for hillclimb and time attack:
 
-The project does **not** seek to maximize horsepower, lap times, or visual impact at the expense of the vehicle as a complete system.
+- Lightweight but still street legal
+- Aerodynamically refined
+- Excellent cooling
+- Superb suspension
+- Predictable handling
+- Reliable enough to drive to the event, compete, and drive home
 
 ---
 
@@ -119,10 +118,10 @@ When objectives conflict, decisions should generally prioritize:
 3. Vehicle-level performance
 4. Reliability
 5. Maintainability
-6. Manufacturability
-7. Cost
-8. Refinement and user experience
-9. Performance metrics
+6. Hillclimb competitiveness
+7. Manufacturability
+8. Cost
+9. Refinement and user experience
 10. Appearance
 
 Exceptions are acceptable but should be documented and justified.
